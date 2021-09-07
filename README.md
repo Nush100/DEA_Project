@@ -12,3 +12,7 @@ User dashboards
 Only the admin can access the admin dashboard.
 Staff members can access staff dashboard.
 Client dashboard can be accessed by both users and the staff members.
+
+<img width="946" alt="pr1" src="https://user-images.githubusercontent.com/75408687/132270194-01c44517-6e73-4ea2-8503-fbc6ffc642b9.png">
+
+
